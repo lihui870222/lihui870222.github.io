@@ -2600,13 +2600,13 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/banner.jpg");
-		background-position: top right;
+		background-image: url("../../images/mountain.jpg");
+		background-position: top left;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 15em;
+		height: 21em;
 		width: 100%;
 	}
 
